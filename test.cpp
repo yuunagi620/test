@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-// te
-=======
->>>>>>> parent of 6d3d084... test02
 #include <iostream>
 
 int main() {
